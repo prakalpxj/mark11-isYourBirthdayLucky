@@ -1,0 +1,37 @@
+
+.container{
+   width: 50% ;
+    margin: auto;
+
+}
+
+
+h1{
+    text-align: center;
+
+}
+
+   
+
+label,
+input {
+  display: block;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  width: 100%;
+}
+
+label {
+  font-weight: 500;
+  font-size: 1.3rem;
+}
+
+#check-number{
+    margin-top: 1rem;
+    margin:auto;
+    display: block;
+    background: transparent;
+    border-width: medium;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+}
